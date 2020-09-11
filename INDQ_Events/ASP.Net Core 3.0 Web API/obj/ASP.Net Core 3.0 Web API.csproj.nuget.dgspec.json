@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Josue Cedano\\source\\repos\\INDQ_Events\\ASP.Net Core 3.0 Web API\\ASP.Net Core 3.0 Web API.csproj": {}
+    "C:\\GitHub\\MyRepository\\INDQ_Events\\ASP.Net Core 3.0 Web API\\ASP.Net Core 3.0 Web API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Josue Cedano\\source\\repos\\INDQ_Events\\ASP.Net Core 3.0 Web API\\ASP.Net Core 3.0 Web API.csproj": {
+    "C:\\GitHub\\MyRepository\\INDQ_Events\\ASP.Net Core 3.0 Web API\\ASP.Net Core 3.0 Web API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Josue Cedano\\source\\repos\\INDQ_Events\\ASP.Net Core 3.0 Web API\\ASP.Net Core 3.0 Web API.csproj",
+        "projectUniqueName": "C:\\GitHub\\MyRepository\\INDQ_Events\\ASP.Net Core 3.0 Web API\\ASP.Net Core 3.0 Web API.csproj",
         "projectName": "ASP.Net Core 3.0 Web API",
-        "projectPath": "C:\\Users\\Josue Cedano\\source\\repos\\INDQ_Events\\ASP.Net Core 3.0 Web API\\ASP.Net Core 3.0 Web API.csproj",
+        "projectPath": "C:\\GitHub\\MyRepository\\INDQ_Events\\ASP.Net Core 3.0 Web API\\ASP.Net Core 3.0 Web API.csproj",
         "packagesPath": "C:\\Users\\Josue Cedano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Josue Cedano\\source\\repos\\INDQ_Events\\ASP.Net Core 3.0 Web API\\obj\\",
+        "outputPath": "C:\\GitHub\\MyRepository\\INDQ_Events\\ASP.Net Core 3.0 Web API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
