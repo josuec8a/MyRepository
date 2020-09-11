@@ -40,7 +40,7 @@ namespace ASP.Net_Core_3._0_Web_API.Controllers
             try
             {
                 if (model.Date < DateTime.Now)
-                    return BadRequest("La fecha del evento no debe ser menor al día de hoy.");
+                    return BadRequest("La fecha del evento no debe ser menor al día de hoy");
 
                 var geometryFactory = NtsGeometryServices.Instance.CreateGeometryFactory(srid: 4326);
 
